@@ -4,7 +4,7 @@ title: Events
 templateClass: tmpl-post
 eleventyNavigation:
   key: Events
-  order: 1
+  order: 2
 ---
 
 Here are a few ways you can keep up Transistors meetings and other local events!
@@ -12,7 +12,7 @@ Here are a few ways you can keep up Transistors meetings and other local events!
 # Google Calendar
 Here's a calendar view of upcoming events. You can also subscribe to the calendar by [clicking here](https://calendar.google.com/calendar/ical/transiowacity%40gmail.com/public/basic.ics)!
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&ctz=America%2FChicago&showTitle=0&src=dHJhbnNpb3dhY2l0eUBnbWFpbC5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&ctz=America%2FChicago&showTitle=0&src=dHJhbnNpb3dhY2l0eUBnbWFpbC5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%230B8043" style="border:solid 1px #777; width:100%; height:500px"frameborder="0" scrolling="no"></iframe>
 
 # Email
 Prefer to recieve email notifications about new events and meeting cancellations? Sign up for our "newsletter" and we'll keep in touch!
