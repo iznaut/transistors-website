@@ -254,3 +254,20 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+.trans-flag {
+  --t-blue: #4fa5c2;
+  --t-pink: #f587ac;
+  --t-white: #f9fbfc;
+
+  background-image: linear-gradient(var(--t-blue) 0%,
+      var(--t-blue) 20%,
+      var(--t-pink) 20%,
+      var(--t-pink) 40%,
+      var(--t-white) 40%,
+      var(--t-white) 60%,
+      var(--t-pink) 60%,
+      var(--t-pink) 80%,
+      var(--t-blue) 80%,
+      var(--t-blue) 100%);
+}
