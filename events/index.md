@@ -9,6 +9,9 @@ eleventyNavigation:
 
 Here are a few ways you can keep up Transistors meetings and other local events!
 
+# Discord
+We have a #transistors channel on the LGBTQ Iowa Archives & Library [Discord server](https://discord.gg/WXxdqWdvhE). Come say hi!
+
 # Google Calendar
 Here's a calendar view of upcoming events. You can also subscribe to the calendar by [clicking here](https://calendar.google.com/calendar/ical/transiowacity%40gmail.com/public/basic.ics)!
 
