@@ -284,3 +284,8 @@ iframe {
   -ms-transform-origin: top left;
   transform-origin: top left;
 }
+
+main {
+  width: 70%;
+  margin: auto;
+}
